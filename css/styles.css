@@ -1,0 +1,71 @@
+.jumbotron {
+	background: rgba(0,0,0,0.2) url(../img/alberta.jpg);
+	background-size: cover;
+	background-blend-mode: soft-light;
+	color: white;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	text-shadow: 4px 3px 9px black;
+	border-radius: 0px;
+}
+
+.aboutcontent .container {
+	margin: 75px auto;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	border-left: 1px solid grey;
+	border-right: 1px solid grey;
+}
+
+.mainimg {
+	border-radius: 100%;
+	margin-bottom: 30px;
+}
+
+.carousel-caption {
+	background-color: rgba(0,0,0,0.4);
+}
+
+.gallerycontent {
+	background-image: url(../img/abbackground.jpg);
+	background-size: cover;
+	margin: 0 auto;
+	padding-top: 80px;
+	padding-bottom: 150px;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.col-sm {
+	padding: 25px 25px;
+}
+
+.galleryimage {
+	box-shadow: 1px 1px 50px grey;
+}
+
+.contactpage .jumbotron {
+	background: rgba(0,0,0,0.2) url(../img/zion.jpg);
+	background-size: cover;
+	background-blend-mode: soft-light;
+	color: white;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	text-shadow: 4px 3px 9px black;
+	border-radius: 0px;
+}
+
+.contactpage .container {
+	padding: 25px 0 50px 0;
+}
+
+.processpage .jumbotron {
+	background: rgba(0,0,0,0.2) url(../img/selfimage1.jpg);
+	background-size: cover;
+	background-blend-mode: soft-light;
+	color: white;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	text-shadow: 4px 3px 9px black;
+	border-radius: 0px;
+}
